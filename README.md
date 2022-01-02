@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lightyear215✨. I'm now go to Changwon Science High School, in Korea!
 - 👀 I’m interested in ... statistic analysis, and computer science.
-- 🌱 I’m currently learning ... R programing, C++, python, linear algebra.
+- 🌱 I’m currently learning ... C++, python, statistics, linear algebra.
 - 💞️ I’m looking to collaborate on ... umm... not yet
 - 📫 How to reach me ... send a email to dbstjdus0215@gmail.com or 20201312@csh-h.gne.go.kr
 
